@@ -4,26 +4,63 @@
 
 <h1 align="center">SaPhotoshop</h1>
 <p align="center">Photoshop CS6 for Linux</p>
-<p align="center">Websaite: https://sapoto.zya.me/</p>
+<p align="center">Website: https://sapoto.zya.me/</p>
 
 ---
 
-## 📥 نصب و اجرا
+<p align="center">
+🌐 <a href="#فارسی">فارسی</a> |
+<a href="#english">English</a> |
+<a href="#العربية">العربية</a>
+</p>
 
-برای نصب و اجرا مراحل زیر را انجام دهید:
+---
 
-```bash
-# نصب ابزار لازم
+## فارسی
+
+📥 نصب و اجرا
+
+برای نصب و اجرای SaPhotoshop مراحل زیر را انجام دهید:
+
 sudo apt install p7zip-full
-
-# استخراج فایل
 7z e SaPhotoshop.7z
-
-# ورود به پوشه
 cd SaPhotoshop/
-
-# دادن دسترسی اجرا
 chmod +x install.sh
-
-# اجرای نصب
 ./install.sh
+
+🎥 آموزش ویدیویی:
+https://www.youtube.com/watch?v=kYXOSgrDamY
+
+---
+
+## English
+
+📥 Installation & Run
+
+To install and run SaPhotoshop, follow these steps:
+
+sudo apt install p7zip-full
+7z e SaPhotoshop.7z
+cd SaPhotoshop/
+chmod +x install.sh
+./install.sh
+
+🎥 Video Tutorial:
+https://www.youtube.com/watch?v=kYXOSgrDamY
+
+---
+
+## العربية
+
+📥 التثبيت والتشغيل
+
+لتثبيت وتشغيل SaPhotoshop اتبع الخطوات التالية:
+
+sudo apt install p7zip-full
+7z e SaPhotoshop.7z
+cd SaPhotoshop/
+chmod +x install.sh
+./install.sh
+
+🎥 شرح بالفيديو:
+https://www.youtube.com/watch?v=kYXOSgrDamY
