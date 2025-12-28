@@ -22,11 +22,13 @@
 
 برای نصب و اجرای SaPhotoshop مراحل زیر را انجام دهید:
 
+```bash
 sudo apt install p7zip-full
 7z e SaPhotoshop.7z
 cd SaPhotoshop/
 chmod +x install.sh
 ./install.sh
+```
 
 🎥 آموزش ویدیویی:
 https://www.youtube.com/watch?v=kYXOSgrDamY
@@ -39,11 +41,13 @@ https://www.youtube.com/watch?v=kYXOSgrDamY
 
 To install and run SaPhotoshop, follow these steps:
 
+```bash
 sudo apt install p7zip-full
 7z e SaPhotoshop.7z
 cd SaPhotoshop/
 chmod +x install.sh
 ./install.sh
+```
 
 🎥 Video Tutorial:
 https://www.youtube.com/watch?v=kYXOSgrDamY
@@ -56,11 +60,13 @@ https://www.youtube.com/watch?v=kYXOSgrDamY
 
 لتثبيت وتشغيل SaPhotoshop اتبع الخطوات التالية:
 
+```bash
 sudo apt install p7zip-full
 7z e SaPhotoshop.7z
 cd SaPhotoshop/
 chmod +x install.sh
 ./install.sh
+```
 
 🎥 شرح بالفيديو:
 https://www.youtube.com/watch?v=kYXOSgrDamY
